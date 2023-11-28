@@ -1,0 +1,4 @@
+Users, id, INT
+accounts, account, VARCHAR(32)
+accounts, account_id, INT
+orders, order_date, TIMESTAMP
